@@ -1,0 +1,15 @@
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.csproj.AssemblyReference.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.AssemblyInfoInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.AssemblyInfo.cs
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.csproj.CoreCompileInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\bin\Debug\net6.0\CreationDesignPattern.exe
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\bin\Debug\net6.0\CreationDesignPattern.deps.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\bin\Debug\net6.0\CreationDesignPattern.runtimeconfig.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\bin\Debug\net6.0\CreationDesignPattern.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\bin\Debug\net6.0\CreationDesignPattern.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\refint\CreationDesignPattern.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\CreationDesignPattern.genruntimeconfig.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\CreationDesignPattern\obj\Debug\net6.0\ref\CreationDesignPattern.dll
