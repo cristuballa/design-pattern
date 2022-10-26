@@ -1,0 +1,5 @@
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.AssemblyReference.cache
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfoInputs.cache
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfo.cs
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.CoreCompileInputs.cache

@@ -1,6 +1,5 @@
-namespace DesignPatterns.Creational.factorymethod;
-
-class ProductB : IProduct
+namespace DesignPatterns.Creational.abstractfactorymethod;
+public class ProductB : IProductB
 {
     public void DoStuff()
     {
