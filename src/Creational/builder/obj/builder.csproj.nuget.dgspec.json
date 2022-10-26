@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\builder.csproj": {}
+    "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\builder.csproj": {}
   },
   "projects": {
-    "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\builder.csproj": {
+    "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\builder.csproj",
+        "projectUniqueName": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\builder.csproj",
         "projectName": "builder",
-        "projectPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\builder.csproj",
+        "projectPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\builder.csproj",
         "packagesPath": "C:\\Users\\crispin.tuballa\\.nuget\\packages\\",
-        "outputPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\obj\\",
+        "outputPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
