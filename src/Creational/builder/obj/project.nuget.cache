@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gi5j76cLNbpWCbQ3SDkGFvWMXLjYA8DUtwqzTbIxajhTd3Ff36s35R8dmzfsdgWlOSqGYCnx//j0azGQNoVLWQ==",
+  "dgSpecHash": "W338V5yUrB5SpbtfiwJuWx/gyiqZrAHySDn26wE6EY6gywaAk4BpVD4FW6bKZ2NNxoiMRvKBZqdMM5kS3JIemA==",
   "success": true,
-  "projectFilePath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\builder\\builder.csproj",
+  "projectFilePath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\builder\\builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

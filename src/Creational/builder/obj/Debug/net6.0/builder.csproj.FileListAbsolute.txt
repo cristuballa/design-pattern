@@ -1,0 +1,15 @@
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\bin\Debug\net6.0\builder.exe
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\bin\Debug\net6.0\builder.deps.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\bin\Debug\net6.0\builder.runtimeconfig.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\bin\Debug\net6.0\builder.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\bin\Debug\net6.0\builder.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.csproj.AssemblyReference.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.AssemblyInfoInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.AssemblyInfo.cs
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.csproj.CoreCompileInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\refint\builder.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\builder.genruntimeconfig.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\builder\obj\Debug\net6.0\ref\builder.dll
