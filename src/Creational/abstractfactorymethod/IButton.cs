@@ -1,4 +1,4 @@
-public interface IProductA
+public interface IButton
 {
     public void DoStuff();
 }

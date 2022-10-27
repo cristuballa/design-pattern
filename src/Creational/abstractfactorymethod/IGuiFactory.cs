@@ -1,8 +1,8 @@
-namespace DesignPatterns.Creational.abstractfactorymethod
-{
-    public interface ICreator
+
+    public interface IGuiFactory
     {
-        public IProductA CreateProductA();
-        public IProductB CreateProductB();
+        public IButton CreateButton();
+        public ICheckBox CreateCheckbox();
+        public ITextBox CreateTextBox();
     }
-}
+
