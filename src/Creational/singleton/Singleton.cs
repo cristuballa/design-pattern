@@ -1,8 +1,12 @@
-public class Singleton
+public sealed class Singleton
 {
-    private Singleton instance=default!;
-    public Singleton GetInstance()
+    private static Singleton instance=default!;
+    public static Singleton GetInstance()
     {
-        return new Singleton();
+        if(instance is null)
+            instance= new Singleton();
+
+        return instance;
+
     }
 }
