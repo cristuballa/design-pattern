@@ -12,8 +12,8 @@ namespace DesignPatterns.Creational.abstractfactorymethod
             IButton winButton=winControl.CreateButton();
             winButton.Create();
 
-            ICheckBox winCheckBox=winControl.CreateCheckBox();
-            winCheckBox.Create();
+            // ICheckBox winCheckBox=winControl.CreateCheckBox();
+            // winCheckBox.Create();
 
             ITextBox winTextBox=winControl.CreateTextBox();
             winTextBox.Create();
@@ -21,8 +21,8 @@ namespace DesignPatterns.Creational.abstractfactorymethod
             IButton macButton=macControl.CreateButton();
             winButton.Create();
 
-            ICheckBox macCheckBox=macControl.CreateCheckBox();
-            winCheckBox.Create();
+            // ICheckBox macCheckBox=macControl.CreateCheckBox();
+            // winCheckBox.Create();
 
             ITextBox macTextBox=macControl.CreateTextBox();
             winTextBox.Create();
