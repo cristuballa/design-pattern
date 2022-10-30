@@ -5,28 +5,27 @@ namespace DesignPatterns.Creational.abstractfactorymethod
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Abstract Factory Method");
-            IGuiFactory winControl=new WindowsControlFactory();
-            IGuiFactory macControl=new MacControlFactory();
-            
-            IButton winButton=winControl.CreateButton();
+            Console.WriteLine("*** Abstract Factory Method ***");
+            IGuiFactory winControl = new WindowsControlFactory();
+            IGuiFactory macControl = new MacControlFactory();
+
+            IButton winButton = winControl.CreateButton();
             winButton.Create();
 
-            // ICheckBox winCheckBox=winControl.CreateCheckBox();
-            // winCheckBox.Create();
+            ICheckBox winCheckBox = winControl.CreateCheckbox();
+            winCheckBox.Create();
 
-            ITextBox winTextBox=winControl.CreateTextBox();
+            ITextBox winTextBox = winControl.CreateTextBox();
             winTextBox.Create();
 
-            IButton macButton=macControl.CreateButton();
-            winButton.Create();
+            IButton macButton = macControl.CreateButton();
+            macButton.Create();
 
-            // ICheckBox macCheckBox=macControl.CreateCheckBox();
-            // winCheckBox.Create();
+            ICheckBox macCheckBox = macControl.CreateCheckbox();
+            macCheckBox.Create();
 
-            ITextBox macTextBox=macControl.CreateTextBox();
-            winTextBox.Create();
-
+            ITextBox macTextBox = macControl.CreateTextBox();
+            macTextBox.Create();
         }
     }
 }

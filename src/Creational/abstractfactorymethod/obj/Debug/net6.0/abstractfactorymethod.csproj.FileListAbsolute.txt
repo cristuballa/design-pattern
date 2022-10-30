@@ -3,3 +3,13 @@ C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactory
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfoInputs.cache
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfo.cs
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.CoreCompileInputs.cache
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.exe
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.deps.json
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.runtimeconfig.json
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.dll
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.pdb
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.dll
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\refint\abstractfactorymethod.dll
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.pdb
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.genruntimeconfig.cache
+C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\ref\abstractfactorymethod.dll

@@ -1,3 +1,4 @@
+namespace DesignPatterns.Creational.abstractfactorymethod;
 
     public interface IGuiFactory
     {
