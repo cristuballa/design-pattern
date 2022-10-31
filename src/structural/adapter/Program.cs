@@ -4,4 +4,4 @@ Console.WriteLine("**Adapter design pattern**");
 var adaptee = new Adaptee();
 ITarget target = new Adapter(adaptee);
 
-target.GetRequest();
+Console.WriteLine($"Message from adaptee ->{target.GetRequest()}");
