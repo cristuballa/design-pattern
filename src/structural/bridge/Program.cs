@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("** Builder design pattern");
+Console.WriteLine("** Bridge design pattern");
 
 Client client = new Client();
 
