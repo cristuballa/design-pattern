@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 namespace DesignPatterns.Creational.abstractfactorymethod
 {
-    class Program
+   static class Program
     {
         static void Main(string[] args)
         {
