@@ -4,7 +4,7 @@ namespace DesignPatterns.Creational.abstractfactorymethod
     {
         public void Create()
         {
-            Console.WriteLine("Windows button created");
+            System.Console.WriteLine("Windows button created");
         }
     }
 }

@@ -1,5 +1,5 @@
 namespace DesignPatterns.Creational.abstractfactorymethod;
 public interface IButton
 {
-       public void Create();
+    public void Create();
 }
