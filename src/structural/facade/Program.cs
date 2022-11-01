@@ -1,6 +1,24 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Facade Design Pattern");
- // The Facade class provides a simple interface to the complex logic of one
+    Subsystem1 subsystem1 = new Subsystem1();
+    Subsystem2 subsystem2 = new Subsystem2();
+    Facade facade = new Facade(subsystem1, subsystem2);
+    Client.ClientCode(facade);
+
+    class Client
+    {
+        // The client code works with complex subsystems through a simple
+        // interface provided by the Facade. When a facade manages the lifecycle
+        // of the subsystem, the client might not even know about the existence
+        // of the subsystem. This approach lets you keep the complexity under
+        // control.
+        public static void ClientCode(Facade facade)
+        {
+            Console.Write(facade.Operation());
+        }
+    }
+
+    // The Facade class provides a simple interface to the complex logic of one
     // or several subsystems. The Facade delegates the client requests to the
     // appropriate objects within the subsystem. The Facade is also responsible
     // for managing their lifecycle. All of this shields the client from the
