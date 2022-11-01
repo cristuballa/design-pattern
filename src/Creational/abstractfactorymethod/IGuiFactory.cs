@@ -1,4 +1,3 @@
-
 namespace DesignPatterns.Creational.abstractfactorymethod;
 
     public interface IGuiFactory
@@ -7,4 +6,3 @@ namespace DesignPatterns.Creational.abstractfactorymethod;
         public ICheckBox CreateCheckbox();
         public ITextBox CreateTextBox();
     }
-
