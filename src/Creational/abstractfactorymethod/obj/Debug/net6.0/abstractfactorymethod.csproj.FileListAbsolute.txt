@@ -3,3 +3,18 @@ C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactory
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfoInputs.cache
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfo.cs
 C:\Bluenbean Software\Dotnet Learn\design-pattern\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.CoreCompileInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.AssemblyReference.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfoInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.AssemblyInfo.cs
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.csproj.CoreCompileInputs.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.exe
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.deps.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.runtimeconfig.json
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\bin\Debug\net6.0\abstractfactorymethod.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\refint\abstractfactorymethod.dll
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.pdb
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\abstractfactorymethod.genruntimeconfig.cache
+C:\SHGApplication\CST\DotnetLearn\DesignPatterns\src\Creational\abstractfactorymethod\obj\Debug\net6.0\ref\abstractfactorymethod.dll

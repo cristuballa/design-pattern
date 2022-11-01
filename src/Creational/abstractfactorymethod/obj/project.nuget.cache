@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9nUER8yQHz0FLB3PVmG8nLatwBUNaiekLe+pYWLW3d1wOq9cwZ3a398BIyF+bvLx6AKdZIvnYzFs+oH7QZEV9w==",
+  "dgSpecHash": "mv0LYmQCbY/ut5sYrOsQFkOJu8HEpk9O5UN7OqEufL3ZQ8oHcsDSXW7lnb2oP2bRkTFPFWT/M9jHjnhNalOXuA==",
   "success": true,
-  "projectFilePath": "C:\\Bluenbean Software\\Dotnet Learn\\design-pattern\\src\\Creational\\abstractfactorymethod\\abstractfactorymethod.csproj",
+  "projectFilePath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\abstractfactorymethod\\abstractfactorymethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

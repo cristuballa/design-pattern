@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\singleton\\singleton.csproj",
+      "projectUniqueName": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\singleton\\singleton.csproj",
       "projectName": "singleton",
-      "projectPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\singleton\\singleton.csproj",
+      "projectPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\singleton\\singleton.csproj",
       "packagesPath": "C:\\Users\\crispin.tuballa\\.nuget\\packages\\",
-      "outputPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\singleton\\obj\\",
+      "outputPath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

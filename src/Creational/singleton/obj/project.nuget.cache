@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNOJjshn1zn9vmX+pb/Wp1SQyndZODJdjuh8tRLidWYfcxE/bIfFOTxxzH0SZZ+6gf2MHyiJlL6dhIMvqiRB1Q==",
+  "dgSpecHash": "Wh9EBQQPQj/3o+oQZta+wFNw52c/eyvQBqFf4AhhvPlsTd05F/1HZ5GYZMVCmMlICZT3wWzRVhFK9cuP9RtkpA==",
   "success": true,
-  "projectFilePath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\singleton\\singleton.csproj",
+  "projectFilePath": "C:\\SHGApplication\\CST\\DotnetLearn\\DesignPatterns\\src\\Creational\\singleton\\singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
